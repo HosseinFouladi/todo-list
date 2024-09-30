@@ -1,0 +1,116 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"laptop",
+            "description":"powerfull macintash laptop ",
+            "price":1200,
+            "category":"electrical-devices",
+            "brand":"apple"
+        },
+        {
+            "id":2,
+            "name":"iphone",
+            "description":"powerfull ios mobile ",
+            "price":900,
+            "category":"electrical-devices",
+            "brand":"apple"
+        },
+        {
+            "id":3,
+            "name":"tablet",
+            "description":"powerfull apple tablets ",
+            "price":1000,
+            "category":"electrical-devices",
+            "brand":"apple"
+        },
+        {
+            "id":4,
+            "name":"GLE 2023",
+            "description":"the best mercedes benz car  ",
+            "price":8900,
+            "category":" car",
+            "brand":"mercedes"
+        },
+        {
+            "id":5,
+            "name":"class C",
+            "description":"one of the lux mercedes car ",
+            "price":7200,
+            "category":"car",
+            "brand":"mercedes"
+        },
+        {
+            "id":6,
+            "name":"calss S",
+            "description":"  a valuable car ",
+            "price":12700,
+            "category":"car",
+            "brand":"mercedes"
+        },
+        {
+            "id":7,
+            "name":"banana",
+            "description":"fruit that exist in africa ",
+            "price":30,
+            "category":"fruit",
+            "brand":"no brand"
+        },
+        {
+            "id":8,
+            "name":"tomato",
+            "description":"a red color fruit",
+            "price":20,
+            "category":"fruit",
+            "brand":"vagitable"
+        },
+        {
+            "id":9,
+            "name":"cherry",
+            "description":"a delicius fruit",
+            "price":40,
+            "category":"fruit",
+            "brand":"no brand"
+        },
+        {
+            "id":10,
+            "name":"s23 fe",
+            "description":"powerfull samsung phone ",
+            "price":2200,
+            "category":"mobile phone",
+            "brand":"samsung"
+        },
+        {
+            "id":11,
+            "name":"poco",
+            "description":"powerfull shiaomi phone ",
+            "price":1700,
+            "category":"mobile phone",
+            "brand":"shiaomi"
+        },
+        {
+            "id":12,
+            "name":"T13",
+            "description":"powerfull huawi phone ",
+            "price":2000,
+            "category":"mobile phone",
+            "brand":"huami"
+        },
+        {
+            "id":13,
+            "name":"shirt",
+            "description":"a clothess that often wears men",
+            "price":80,
+            "category":"clothes",
+            "brand":"official"
+        },
+        {
+            "id":14,
+            "name":"pants",
+            "description":"for covering feets ",
+            "price":60,
+            "category":"clothes",
+            "brand":"party"
+        }
+    ]
+}
